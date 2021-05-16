@@ -6,7 +6,7 @@
 <title>Final Project</title>
 </head>
 <body> 
-<h1>Priyanka Gupta</h1>
+<h1>Sakshi Singh</h1>
 <nav>
 <a href="file:///C:/Users/hp/Downloads/project.html#">One</a>
 <a href="file:///C:/Users/hp/Downloads/project.html#">Two</a>
@@ -16,8 +16,8 @@
 <h2>Faourite Foods</h2>
 <ul>
 <li> Pasta</li>
-<li>Pizza</li>
-<li>Burger</li>
+<li>Mutton Biryani</li>
+<li>Aloo ke parathe</li>
 <li> Momos</li>
 </ul>
 <h2>Achievements</h2>
