@@ -32,7 +32,7 @@ Progress in life goals(45%) <progress value="45" max="100"></progress>
 Always the notorious one among my cousins. 
 </details>
 <footer>
-<img src="./sakshi page_files/newlogo.png" alt="WD4E">This page was created by Priyanka Gupta &amp; Colleen Van Lent.To learn more about
+<img src="./sakshi page_files/newlogo.png" alt="WD4E">This page was created by Sakshi Singh &amp; Colleen Van Lent.To learn more about
 <p> web design,visit <a href="http://www.intro-webdesign.com/"> Intro to Web Design.</a></p>
 
 </footer>
